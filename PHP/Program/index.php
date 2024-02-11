@@ -1,3 +1,5 @@
+/* Saya Mohammad Faridz Fathin [2202680] mengerjakan LP1 dalam mata kuliah DPBO untuk keberkahanNya maka saya 
+tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. */
 <?php
     include "Tabeldpr.php";
     // membuat 5 anggota
