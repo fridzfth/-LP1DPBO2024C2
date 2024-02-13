@@ -256,3 +256,9 @@ Ketikkan angka menu :  5
 
 Bye See You Next Time
 ```
+
+![Screenshot1](https://github.com/fridzfth/LP1DPBO2024C2/blob/8bfb5130d240446929228b8bf760bbe877704dc4/Cpp/Screenshots/Screenshot%202024-02-06%20195844.png)
+![Screenshot2](https://github.com/fridzfth/LP1DPBO2024C2/blob/8bfb5130d240446929228b8bf760bbe877704dc4/Cpp/Screenshots/Screenshot%202024-02-06%20195954.png)
+![Screenshot3](https://github.com/fridzfth/LP1DPBO2024C2/blob/8bfb5130d240446929228b8bf760bbe877704dc4/Cpp/Screenshots/Screenshot%202024-02-06%20200645.png)
+![Screenshot4](https://github.com/fridzfth/LP1DPBO2024C2/blob/8bfb5130d240446929228b8bf760bbe877704dc4/Cpp/Screenshots/Screenshot%202024-02-06%20200702.png)
+
