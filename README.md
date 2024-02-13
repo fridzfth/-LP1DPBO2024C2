@@ -1,4 +1,5 @@
-# LP1DPBO2024C2 - Data Pusat DPR RI Program (C++ Version)
+# LP1DPBO2024C2 - Data Pusat DPR RI Program 
+# C++ Version
 ## Overview
 This C++ program manages and displays information about members of the Indonesian People's Consultative Assembly (Dewan Perwakilan Rakyat or DPR). It consists of two classes: `Dpr` for individual member details and `Menu` for managing a list of members and performing operations such as adding, updating, deleting, and displaying data.
 ## Author
